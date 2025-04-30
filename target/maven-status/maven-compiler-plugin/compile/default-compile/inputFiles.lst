@@ -1,0 +1,11 @@
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/Main.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/config/RepositoryConfig.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/controller/RegisterController.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/exception/UserNotFoundException.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/model/Category.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/model/Product.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/model/User.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/repo/CategoryRepo.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/repo/ProductRepo.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/repo/RegisterRepo.java
+/Users/bishalawasthi/e-commerce-backend/src/main/java/org/ecom/service/RegisterService.java
